@@ -5,5 +5,3 @@
 
   ## Acerca del proyecto
   
-
-  # hola 2
