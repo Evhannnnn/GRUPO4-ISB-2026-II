@@ -11,7 +11,7 @@
 | CHAGUA TERREROS, LEONIL EVHANN YARUD           | Análisis de datos       |    a20226039@pucp.edu.pe       |
 | PALOMINO CASTELLANOS, JOAQUIN ANGEL            | Documentación técnica   |           |
 | QUISPE MURILLO, RONNY ANDRE            | "Apasionado por la manufactura para la realización de dispositivos médicos"      | ronny.quispe@upch.pe          |
-| MANTURANO LOPEZ, ALDO DAVID            | Validación clínica      |          |
+| MANTURANO LOPEZ, ALDO DAVID            | Validación clínica      | aldo.manturano@pucp.edu.pe         |
   ## Docentes
   - Moises Stevend Meza Rodriguez
   - Jose Alonso Cáceres del Aguila
