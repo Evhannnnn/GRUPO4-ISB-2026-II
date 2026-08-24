@@ -1,4 +1,4 @@
-  # Bienvenido al Repositorio del grupo 4
+  # Bienvenido al repositorio del grupo 4
 
   ## Curso
   Introducción a Señales Biomédicas
