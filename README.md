@@ -7,7 +7,7 @@
 
 | Nombre completo       | Intereses        | Correo institucional         |
 |-----------------------|-------------------------|------------------------------|
-| ALIAGA ALCANTARA, ANDREA DEL CARMEN             | Coordinador / Programador |        |
+| ALIAGA ALCANTARA, ANDREA DEL CARMEN             | Coordinador / Programador | andrea.aliaga@upch.pe       |
 | CHAGUA TERREROS, LEONIL EVHANN YARUD           | Análisis de datos       |    a20226039@pucp.edu.pe       |
 | PALOMINO CASTELLANOS, JOAQUIN ANGEL            | Documentación técnica   |           |
 | QUISPE MURILLO, RONNY ANDRE            | "Apasionado por la manufactura para la realización de dispositivos médicos"      | ronny.quispe@upch.pe          |
