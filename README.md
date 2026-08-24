@@ -3,5 +3,14 @@
   ## Curso
   Introducción a Señales Biomédicas
 
-  ## Acerca del proyecto
+  ## Integrantes
+
+| Nombre completo       | Intereses        | Correo institucional         |
+|-----------------------|-------------------------|------------------------------|
+| ALIAGA ALCANTARA, ANDREA DEL CARMEN             | Coordinador / Programador | andrequis@ejemplo.com        |
+| CHAGUA TERREROS, LEONIL EVHANN YARUD           | Análisis de datos       | mperez@ejemplo.com           |
+| PALOMINO CASTELLANOS, JOAQUIN ANGEL            | Documentación técnica   | jlopez@ejemplo.com           |
+| QUISPE MURILLO, RONNY ANDRE            | "Apasionado por la manufactura para la realización de dispositivos médicos"      | ronny.quispe@upch.pe          |
+| MANTURANO LOPEZ, ALDO DAVID            | Validación clínica      | atorres@ejemplo.com          |
+
   
