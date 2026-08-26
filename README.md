@@ -10,11 +10,11 @@
 
 | Nombre completo       | Intereses        | Correo institucional         |
 |-----------------------|-------------------------|------------------------------|
-| ALIAGA ALCANTARA, ANDREA DEL CARMEN             | Coordinador / Programador | andrea.aliaga@upch.pe       |
-| CHAGUA TERREROS, LEONIL EVHANN YARUD           | Análisis de datos       |    a20226039@pucp.edu.pe       |
-| PALOMINO CASTELLANOS, JOAQUIN ANGEL            | Documentación técnica   | joaquin.palomino@upch.pe          |
-| QUISPE MURILLO, RONNY ANDRE            | "Apasionado por la manufactura para la realización de dispositivos médicos"      | ronny.quispe@upch.pe          |
-| MANTURANO LOPEZ, ALDO DAVID            | Validación clínica      | aldo.manturano@pucp.edu.pe         |
+| ALIAGA ALCANTARA, ANDREA DEL CARMEN             | Coordinador / Programador | andrea.aliaga@upch.pe 8vo ciclo      |
+| CHAGUA TERREROS, LEONIL EVHANN YARUD           | Análisis de datos       |    a20226039@pucp.edu.pe  7mo ciclo     |
+| PALOMINO CASTELLANOS, JOAQUIN ANGEL            | Documentación técnica   | joaquin.palomino@upch.pe  8vo ciclo        |
+| QUISPE MURILLO, RONNY ANDRE            | "Apasionado por la manufactura para la realización de dispositivos médicos"      | ronny.quispe@upch.pe   8vo ciclo       |
+| MANTURANO LOPEZ, ALDO DAVID            | Validación clínica      | aldo.manturano@pucp.edu.pe    8vo ciclo     |
   ## Docentes
   - Moises Stevend Meza Rodriguez
   - Jose Alonso Cáceres del Aguila
