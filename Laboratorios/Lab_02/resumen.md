@@ -1,7 +1,7 @@
 # Filtros digitales: FIR, IIR y Transformada Z
 
 **Curso:** Introducción a Señales Biomédicas
-**UPCH — 2026-II | Grupo 4**
+**UPCH 2026-II | Grupo 4**
 
 ---
 
@@ -163,20 +163,6 @@ El corte se fijó por debajo de esa frecuencia y por encima de la banda fisioló
 **Validación.** Se combinaron cuatro criterios: comparación de la morfología temporal, superposición de los espectros antes y después del filtrado, cálculo de métricas cuantitativas de error y verificación de que los picos R mantenían su posición temporal. El error cuadrático medio respecto de la referencia limpia resultó del orden de diez elevado a menos cinco, lo que indica ausencia de distorsión apreciable.
 
 **Errores de diseño.** Se examinaron experimentalmente dos casos. Una frecuencia de corte excesivamente baja, del orden de 5 Hz, aplana y ensancha el complejo QRS al eliminar los armónicos responsables de sus flancos abruptos, con la consiguiente pérdida de información diagnóstica. El uso de filtrado causal mediante `sosfilt` en lugar de la versión bidireccional desplaza temporalmente la señal, ya que un filtro IIR aplicado en un solo sentido presenta retardo de grupo dependiente de la frecuencia; esto compromete la medición de intervalos como el QT o el tiempo entre picos R.
-
----
-
-## 13. Comparación entre los tres laboratorios
-
-Cada sesión responde una pregunta distinta sobre la misma señal.
-
-En el **Laboratorio 01** la pregunta es qué contiene el registro. El trabajo es descriptivo: leer los metadatos, reconstruir el eje temporal y observar la morfología. La señal no se modifica en ningún momento. Lo que queda de esta sesión es que un mismo registro admite varias representaciones y que ninguna basta por sí sola, algo que se comprueba al comparar el trazado temporal con el histograma de amplitudes.
-
-En el **Laboratorio 02** la pregunta es qué frecuencias componen la señal y en qué momento aparecen. Se incorpora el análisis espectral y, con la STFT, el dominio conjunto de tiempo y frecuencia. Aparece también la primera decisión con consecuencias sobre el resultado, el tamaño de ventana, donde ya no basta seguir un procedimiento fijo. Trabajar con tres registros permite contrastar señales limpias con otras que presentan deriva de línea base, diferencia que en el dominio temporal resulta ambigua y en el espectrograma se distingue sin dificultad.
-
-En el **Laboratorio 03** la pregunta es cómo modificar la señal sin degradarla. Es la única sesión que interviene sobre los datos y por eso la única que puede deteriorarlos. Se recurre a una señal sintética porque contar con una referencia limpia permite cuantificar ese deterioro. Aquí no se ajusta un parámetro aislado sino un conjunto: familia, tipo de filtro, frecuencia de corte, orden y tratamiento de fase.
-
-El orden de las sesiones no es arbitrario. Elegir una frecuencia de corte exige haber visto antes el espectro, y leer un espectro exige conocer la señal en el tiempo. El error de diseño analizado en la última sesión, un corte demasiado bajo que aplana el complejo QRS, solo se entiende porque en las sesiones previas se determinó dónde se concentra la energía de ese complejo.
 
 ---
 
